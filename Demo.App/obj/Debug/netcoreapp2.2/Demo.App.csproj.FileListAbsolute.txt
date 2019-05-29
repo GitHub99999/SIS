@@ -1,0 +1,17 @@
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Views\Home\Home.html
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Demo.App.deps.json
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Demo.App.runtimeconfig.json
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Demo.App.runtimeconfig.dev.json
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Demo.App.dll
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\Demo.App.pdb
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\SIS.HTTP.dll
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\SIS.WebServer.dll
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\SIS.HTTP.pdb
+C:\Users\Toni\source\repos\SIS\Demo.App\bin\Debug\netcoreapp2.2\SIS.WebServer.pdb
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.csprojAssemblyReference.cache
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.csproj.CoreCompileInputs.cache
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.AssemblyInfoInputs.cache
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.AssemblyInfo.cs
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.csproj.CopyComplete
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.dll
+C:\Users\Toni\source\repos\SIS\Demo.App\obj\Debug\netcoreapp2.2\Demo.App.pdb
